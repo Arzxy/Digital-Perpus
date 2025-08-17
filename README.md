@@ -12,8 +12,8 @@
 - 📊 Dashboard statistik buku dan peminjaman
 
 ## 🛠️ Teknologi yang Digunakan
-- PHP Native / Laravel
-- MySQL / MariaDB
+- PHP Native
+- MySQL
 - HTML, CSS, JavaScript
 - Bootstrap
 
